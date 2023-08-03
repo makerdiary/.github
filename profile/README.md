@@ -8,6 +8,5 @@ We're really glad you're reading this, as we would love to get more developers i
 
 - [Online Store](https://makerdiary.com)
 - [Documentation](https://wiki.makerdiary.com)
-- [GitHub Discussions](https://github.com/orgs/makerdiary/discussions)
 - [Community](https://community.makerdiary.com)
 - [Blog](https://blog.makerdiary.com)

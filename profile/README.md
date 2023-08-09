@@ -13,4 +13,5 @@ We're really glad you're reading this, as we would love to get more developers i
 
 ## What's New
 
+- [nRF52840 MDK USB Dongle Documentation Updated!](https://wiki.makerdiary.com/nrf52840-mdk-usb-dongle/)
 - [Explore the latest OpenSK FIDO2 authenticator firmware](https://github.com/makerdiary/OpenSK-firmware)

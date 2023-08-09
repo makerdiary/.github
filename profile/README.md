@@ -1,3 +1,5 @@
+![](https://cdn.shopify.com/s/files/1/0066/0865/0355/files/social-sharing-image.png?v=1691307075)
+
 ## Welcome to the Makerdiary community! 👋
 
 Makerdiary is a team of technology enthusiasts, makers and designers, looking to make it easy for developers to build connected devices and get to production quickly with innovative solutions.

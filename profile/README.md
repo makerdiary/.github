@@ -15,5 +15,6 @@ We're really glad you're reading this, as we would love to get more developers i
 
 ## What's New
 
+- [iMX RT1011 Nano Kit is Here!](https://makerdiary.com/products/imxrt1011-nanokit)
 - [Documentation Updated - nRF52840 MDK USB Dongle](https://wiki.makerdiary.com/nrf52840-mdk-usb-dongle/)
 - [Explore the latest OpenSK FIDO2 authenticator firmware](https://github.com/makerdiary/OpenSK-firmware)

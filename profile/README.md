@@ -13,6 +13,10 @@ We're really glad you're reading this, as we would love to get more developers i
 - [Community](https://community.makerdiary.com)
 - [Blog](https://blog.makerdiary.com)
 
+## Development Tools
+
+- [Web Device CLI](https://github.com/makerdiary/web-device-cli) - A Web Command Line Interface via NUS (Nordic UART Service) using Web Bluetooth
+
 ## What's New
 
 - [nRF9151 Connect Kit is Here!](https://makerdiary.com/products/nrf9151-connectkit)

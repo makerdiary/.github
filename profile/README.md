@@ -1,3 +1,5 @@
+![GitHub Org's stars](https://img.shields.io/github/stars/makerdiary) 
+
 [![](https://cdn.shopify.com/s/files/1/0066/0865/0355/files/social-sharing-image.png?v=1691307075)](https://makerdiary.com/collections/all-products)
 
 ## Welcome to the Makerdiary community! 👋

@@ -18,7 +18,7 @@ We're really glad you're reading this, as we would love to get more developers i
 - [Web Device CLI](https://github.com/makerdiary/web-device-cli) - A Web Command Line Interface via NUS (Nordic UART Service) using Web Bluetooth
 
 ## What's New
-
+- [nRF54L15 Connect Kit Now Available!](https://makerdiary.com/products/nrf54l15-connectkit)
 - [nRF9151 Connect Kit is Here!](https://makerdiary.com/products/nrf9151-connectkit)
 - [iMX RT1011 Nano Kit is Here!](https://makerdiary.com/products/imxrt1011-nanokit)
 - [Documentation Updated - nRF52840 MDK USB Dongle](https://wiki.makerdiary.com/nrf52840-mdk-usb-dongle/)
